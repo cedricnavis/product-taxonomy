@@ -6575,11 +6575,13 @@
   - sg-1-10-3
   - sg-1-10-4
   - sg-1-10-5
+  - sg-1-10-6
   attributes:
   - color
-  - fencing_discipline
-  - pattern
-  - sports_governing_body_certification
+  - fencing_weapon_type
+  - sport_governing_body_certificaiton
+  - fencing_certification
+  - target_gender
   return_reasons:
   - size
   - color
@@ -6600,6 +6602,8 @@
   - sg-1-10-1-5
   - sg-1-10-1-6
   - sg-1-10-1-7
+  - sg-1-10-1-8
+  - sg-1-10-1-9
   attributes:
   - accessory_size
   - age_group
@@ -6641,6 +6645,7 @@
   children:
   - sg-1-10-1-2-1
   - sg-1-10-1-2-2
+  - sg-1-10-1-2-3
   attributes:
   - accessory_size
   - age_group
@@ -6694,6 +6699,23 @@
   - pattern
   - sports_governing_body_certification
   - target_gender
+  return_reasons:
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-1-2-3
+  name: Fencing Sabre Gloves
+  children: []
+  attributes:
+  - accessory_size
+  - age_group
+  - color
+  - handwear_material
+  - pattern
+  - sports_governing_body_certification
   return_reasons:
   - changed_my_mind
   - item_not_as_described
@@ -6768,7 +6790,8 @@
   - other_reason
 - id: sg-1-10-1-4
   name: Fencing Masks
-  children: []
+  children: 
+  - sg-1-10-1-4-1
   attributes:
   - accessory_size
   - age_group
@@ -6782,6 +6805,25 @@
   - too_big
   - too_small
   - ventilation
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-1-4-1
+  name: Fencing Electric Mask 
+  children: []
+  attributes:
+  - accessory_size
+  - age_group
+  - color
+  - fencing_discipline
+  - lining_type
+  - mask_bib_type
+  - pattern
+  - sports_governing_body_certification
+  return_reasons:
   - changed_my_mind
   - item_not_as_described
   - received_the_wrong_item
@@ -6842,6 +6884,54 @@
   - damaged_or_defective
   - unknown
   - other_reason
+- id: sg-1-10-1-8
+  name: Fencing Socks
+  children: []
+  attributes:
+  - accessory_size
+  - age_group
+  - color
+  - fencing_discipline
+  - pattern
+  - sports_governing_body_certification
+  return_reasons:
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-1-9
+  name: Fencing Coaching Gear
+  children:
+  - sg-1-10-1-9-1
+  attributes:
+  - age_group
+  - care_instructions
+  - closure_type
+  - color
+  - fencing_discipline
+  - pattern
+  - sports_governing_body_certification
+  - target_gender
+  return_reasons:
+  - too_big
+  - too_small
+- id: sg-1-10-1-9-1
+  name: Fencing Coaching Extremities
+  children: []
+  attributes:
+  - age_group
+  - care_instructions
+  - closure_type
+  - color
+  - fencing_discipline
+  - pattern
+  - sports_governing_body_certification
+  - target_gender
+  return_reasons:
+  - too_big
+  - too_small
 - id: sg-1-10-2
   name: Fencing Scoring Equipment
   children:
@@ -6851,6 +6941,7 @@
   - sg-1-10-2-4
   - sg-1-10-2-5
   - sg-1-10-2-6
+  - sg-1-10-2-7
   attributes:
   - age_group
   - color
@@ -6900,7 +6991,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-2-3
+- id: sg-1-10-2-3   
   name: Fencing Sockets & Plugs
   children: []
   attributes:
@@ -6962,6 +7053,20 @@
   - pattern
   - sports_governing_body_certification
   return_reasons:
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-2-7
+  name: Fencing scoring parts
+  children: []
+  attributes:
+  - color
+  - fencing_discipline
+  return_reasons:
+  - incompatible
   - changed_my_mind
   - item_not_as_described
   - received_the_wrong_item
@@ -7202,7 +7307,6 @@
   - sg-1-10-4-2
   - sg-1-10-4-3
   - sg-1-10-4-4
-  - sg-1-10-4-5
   attributes:
   - accessory_size
   - color
@@ -7225,7 +7329,15 @@
   - other_reason
 - id: sg-1-10-4-1
   name: Fencing Epees
-  children: []
+  children: 
+  - sg-1-10-4-1-1
+  - sg-1-10-4-1-2
+  - sg-1-10-4-1-3
+  - sg-1-10-4-1-4
+  - sg-1-10-4-1-5
+  - sg-1-10-4-1-6
+  - sg-1-10-4-1-7
+  - sg-1-10-4-1-8
   attributes:
   - accessory_size
   - color
@@ -7234,7 +7346,6 @@
   - fencing_discipline
   - grip_type
   - hand_side
-  - pattern
   - sports_governing_body_certification
   - wiring_configuration
   return_reasons:
@@ -7248,23 +7359,38 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-2
-  name: Fencing Foil Blades
+- id: sg-1-10-4-1-1
+  name: Fencing Epee Blades
   children: []
   attributes:
   - accessory_size
-  - blade_size_number
   - color
+  - epee_point_type
   - fencing_certification
   - fencing_discipline
-  - grip_type
-  - hand_side
-  - pattern
   - sports_governing_body_certification
+  - wiring_configuration
   return_reasons:
   - length
   - balance
-  - flex
+  - weight
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-2
+  name: Fencing Epee Guards
+  children: []
+  attributes:
+  - accessory_size
+  - color
+  - fencing_discipline
+  - sports_governing_body_certification
+  return_reasons:
+  - balance
   - weight
   - changed_my_mind
   - item_not_as_described
@@ -7272,7 +7398,151 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3
+- id: sg-1-10-4-1-3
+  name: fencing Epee Pommels
+  children: []
+  attributes:
+  - accessory_size
+  - color
+  - fencing_discipline
+  - sports_governing_body_certification
+  return_reasons:
+  - incompatible
+  - balance
+  - weight
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-4
+  name: Fencing Epee Grips
+  children: []
+  attributes:
+  - accessory_size
+  - color
+  - fencing_discipline
+  - sports_governing_body_certification
+  return_reasons:
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-5
+  name: Fencing Epee Sockets
+  children: []
+  attributes:
+  - fencing_discipline
+  - fencing_weapon_type
+  - fencing_connector_type
+  - sports_governing_body_certification
+  return_reasons:
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-6
+  name: Fencing Epee Pads
+  children: []
+  attributes:
+  - color
+  - fencing_discipline
+  - sports_governing_body_certification
+  return_reasons:
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-7
+  name: Fencing Epee Points
+  children:
+  - sg-1-10-4-1-7-1
+  - sg-1-10-4-1-7-2
+  - sg-1-10-4-1-7-3
+  - sg-1-10-4-1-7-4
+  - sg-1-10-4-1-7-5
+  attributes:
+  - color
+  - fencing_discipline
+  - sports_governing_body_certification
+  - fencing_weapon_type
+  return_reasons:
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-8
+  name: Fencing Complete Epees
+  children: []
+  attributes:
+  - accessory_size
+  - color
+  - fencing_certification
+  - fencing_discipline
+  - grip_type
+  - hand_side
+  - sports_governing_body_certification
+  return_reasons:
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-7-1
+  name: Fencing Epee Points Tips
+  children: []
+  attributes:
+  - color
+  - fencing_discipline
+  - sports_governing_body_certification
+  - fencing_weapon_type
+  return_reasons:
+  - incompatible
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-7-2
+  name: Fencing Epee Points Springs
+  children: []
+- id: sg-1-10-4-1-7-3
+  name: Fencing Epee Points Screws
+  children: []
+- id: sg-1-10-4-1-7-4
+  name: Fencing Epee Points Bases
+  children: []
+- id: sg-1-10-4-1-7-5
+  name: Fencing Epee Wires
+  children: []
+  attributes:
+  - fencing_discipline
+  - sports_governing_body_certification
+  return_reasons:
+  - length
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-2
   name: Fencing Practice Swords
   children: []
   attributes:
@@ -7293,7 +7563,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4
+- id: sg-1-10-4-3
   name: Fencing Sabres
   children:
   - sg-1-10-4-4-1
@@ -7319,7 +7589,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-1
+- id: sg-1-10-4-3-1
   name: Fencing Sabre Guards
   children: []
   attributes:
@@ -7339,7 +7609,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-2
+- id: sg-1-10-4-3-2
   name: Fencing Sabre Blades
   children: []
   attributes:
@@ -7359,7 +7629,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-5
+- id: sg-1-10-4-4
   name: Fencing Foils
   children: []
   attributes:
@@ -7369,7 +7639,6 @@
   - fencing_discipline
   - grip_type
   - hand_side
-  - pattern
   - sports_governing_body_certification
   return_reasons:
   - changed_my_mind
