@@ -6581,7 +6581,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6611,7 +6611,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6637,7 +6637,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6665,7 +6665,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6691,7 +6691,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6714,7 +6714,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6738,7 +6738,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6765,7 +6765,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6791,7 +6791,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6818,7 +6818,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6847,7 +6847,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6873,7 +6873,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6899,7 +6899,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6924,7 +6924,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6945,7 +6945,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6970,7 +6970,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -6996,7 +6996,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7022,7 +7022,7 @@
   - age_group
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7051,7 +7051,7 @@
   attributes:
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7071,7 +7071,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7091,7 +7091,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7112,7 +7112,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7132,7 +7132,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7152,7 +7152,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7173,7 +7173,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7187,13 +7187,13 @@
   - unknown
   - other_reason
 - id: sg-1-10-2-7
-  name: Fencing scoring parts
+  name: Fencing Scoring Parts
   children: []
   attributes:
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7223,7 +7223,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7247,7 +7247,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - target_gender
   - Pattern
@@ -7269,7 +7269,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7290,7 +7290,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7313,7 +7313,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7337,7 +7337,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7359,7 +7359,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7382,7 +7382,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7404,7 +7404,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7426,7 +7426,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7446,7 +7446,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7471,7 +7471,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7499,14 +7499,10 @@
   - sg-1-10-4-1-7
   - sg-1-10-4-1-8
   attributes:
-  - hand_side
-  - fencing_connector_type
-  - epee_point_type
-  - age_group
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7532,7 +7528,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7556,7 +7552,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7576,11 +7572,12 @@
   name: fencing Epee Pommels
   children: []
   attributes:
+  - grip_type
   - accessory_size
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7603,7 +7600,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7626,7 +7623,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7645,7 +7642,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7670,7 +7667,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7696,7 +7693,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7721,7 +7718,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7741,7 +7738,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   return_reasons:
   - incompatible
@@ -7759,7 +7756,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   return_reasons:
   - incompatible
@@ -7778,7 +7775,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   return_reasons:
   - incompatible
@@ -7798,7 +7795,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   return_reasons:
   - length
@@ -7824,7 +7821,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7845,12 +7842,17 @@
   name: Fencing Sabres
   children:
   - sg-1-10-4-4-1
-  - sg-1-10-4-4-2þþ
+  - sg-1-10-4-4-2
+  - sg-1-10-4-4-3
+  - sg-1-10-4-4-4
+  - sg-1-10-4-4-5
+  - sg-1-10-4-4-6
+  - sg-1-10-4-4-7
   attributes:
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern 
   return_reasons:
@@ -7872,7 +7874,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7894,7 +7896,7 @@
   - care_instructions
   - color
   - fencing_weapon_type
-  - sport_governing_body_certificaiton
+  - sports_governing_body_certification
   - fencing_certification
   - Pattern
   return_reasons:
@@ -7907,6 +7909,122 @@
   - damaged_or_defective
   - unknown
   - other_reason
+- id: sg-1-10-4-3-3
+  name: Fencing Sabre Pommels
+  children: []
+  attributes:
+  - hand_side
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - wrong_hand
+  - grip
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-3-4
+  name: Fencing Sabre Grips
+  children: []
+  attributes:
+  - hand_side
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - wrong_hand
+  - grip
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-3-5
+  name: Fencing Sabre Sockets
+  children: []
+  attributes:
+  - fencing_connector_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-3-6
+  name: Fencing Sabre Pads
+  children: []
+  attributes:
+  - fencing_connector_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+
+- id: sg-1-10-4-3-7
+  name: Fencing Complete Sabres
+  children: []
+  attributes:
+  - grip_type
+  - hand_side
+  - connector_type
+  - blade_size_category
+  - age_group
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - grip
+  - wrong_hand
+  - balance
+  - weight
+  - length
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+
 - id: sg-1-10-4-4
   name: Fencing Foils
   children: []
@@ -7926,12 +8044,295 @@
   - damaged_or_defective
   - unknown
   - other_reason
+- id: sg-1-10-4-4-1
+  name: Fencing Foil Blades
+  children: []
+  attributes:
+  - age_group
+  - blades_size_category
+  - accessory_size
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - length
+  - balance
+  - weight
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-2
+  name: Fencing Foil Guards
+  children: []
+  attributes:
+  - hand_side
+  - accessory_size
+  - age_group
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - wrong_hand
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-3
+  name: Fencing Foil Pommels
+  children: []
+  attributes:
+  - care_instructions
+  - grip_type
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-4
+  name: Fencing Foil Grips
+  children: []
+  attributes:
+  - hand_side
+  - accessory_size
+  - age_group
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - wrong_hand
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason    
+- id: sg-1-10-4-4-5
+  name: Fencing Foil Socket
+  chidren: []
+  attributes:
+  - fencing_connector_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-6
+  name: Fencing Foil Pads
+  children: []
+  attributes:
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason  
+- id: sg-1-10-4-4-7
+  name: Fencing Foil Points
+  children:
+  - sg-1-10-4-4-7-1
+  - sg-1-10-4-4-7-2
+  - sg-1-10-4-4-7-3
+  - sg-1-10-4-4-7-4
+  - sg-1-10-4-4-7-5
+  attributes:
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason  
+- id: sg-1-10-4-4-7-1
+  name: Fencing Foil Points Tips
+  children: []
+  attributes:
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-7-2
+  name: Fencing Foil Points Springs
+  children: []
+  attributes: 
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-7-3
+  name: Fencing Foil Points Screws
+  attributes:
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+  children: []
+- id: sg-1-10-4-4-7-4
+  name: Fencing Foil Points Bases
+  attributes:
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  return_reasons:
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+  children: []
+- id: sg-1-10-4-4-7-5
+  name: Fencing Foil Epee Wires
+  children: []
+  attributes:
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  return_reasons:
+  - length
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-4-8
+  name: Fencing Complete Foils
+  children: []
+  attributes:
+  - wiring_configuration
+  - grip_type
+  - hand_side
+  - connector_type
+  - blade_size_category
+  - age_group
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - Pattern
+  return_reasons:
+  - grip
+  - wrong_hand
+  - balance
+  - weight
+  - length
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason  
 - id: sg-1-10-5
   name: Fencing Shoes
   children: []
   attributes:
   - shoe_size
-  - shoe_width
+  - shoe_width  
   - age_group
   - color
   - fencing_certification
@@ -7946,6 +8347,113 @@
   - damaged_or_defective
   - unknown
   - other_reason
+- id: sg-1-10-6
+  name: Fencing Accessories
+  children:
+  - sg-1-10-6-1
+  - sg-1-10-6-2
+  attributes:
+  - care_instructions
+  - age_group
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - target_gender
+  - Pattern
+  return_reasons:
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-10-1-6-1
+  name: Fencing Bags
+  chidren:
+  - sg-1-10-6-1-1
+  - sg-1-10-6-1-2
+  attributes:
+  - closure_type
+  - care_instructions
+  - age_group
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - target_gender
+  - Pattern
+  return_reasons:
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason    
+- id: sg-1-10-6-1-1
+  name: Fencing Soft Bags
+  chidren: []
+  attributes:
+  - closure_type
+  - care_instructions
+  - age_group
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - target_gender
+  - Pattern
+  return_reasons:
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason 
+- id: sg-1-10-6-1-2
+  name: Fencing Rollbag
+  attributes:
+  - closure_type
+  - care_instructions
+  - age_group
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - target_gender
+  - Pattern
+  return_reasons:
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason 
+- id: sg-1-10-6-2
+  name: Fencing miscellaneous parts
+  attributes: 
+  - care_instructions
+  - age_group
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - target_gender
+  - Pattern
+  return_reasons:
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason 
+
+
 - id: sg-1-11
   name: Field Hockey & Lacrosse
   children:
