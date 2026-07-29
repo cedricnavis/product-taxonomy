@@ -7679,37 +7679,6 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-1-8
-  name: Fencing Complete Epees
-  children: []
-  attributes:
-  - wiring_configuration
-  - grip_type
-  - hand_side
-  - connector_type
-  - blade_size_category
-  - age_group
-  - epee_point_type
-  - care_instructions
-  - color
-  - fencing_weapon_type
-  - sports_governing_body_certification
-  - fencing_certification
-  - pattern
-  return_reasons:
-  - grip
-  - wrong_hand
-  - balance
-  - weight
-  - length
-  - incompatible
-  - color
-  - changed_my_mind
-  - item_not_as_described
-  - received_the_wrong_item
-  - damaged_or_defective
-  - unknown
-  - other_reason
 - id: sg-1-10-4-1-7-1
   name: Fencing Epee Points Tips
   children: []
@@ -7798,6 +7767,37 @@
   - sports_governing_body_certification
   - fencing_certification
   return_reasons:
+  - length
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-1-8
+  name: Fencing Complete Epees
+  children: []
+  attributes:
+  - wiring_configuration
+  - grip_type
+  - hand_side
+  - connector_type
+  - blade_size_category
+  - age_group
+  - epee_point_type
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - pattern
+  return_reasons:
+  - grip
+  - wrong_hand
+  - balance
+  - weight
   - length
   - incompatible
   - color
