@@ -7465,6 +7465,7 @@
   - sg-1-10-4-2
   - sg-1-10-4-3
   - sg-1-10-4-4
+  - sg-1-10-4-5
   attributes:
   - accessory_size
   - age_group
@@ -7808,6 +7809,31 @@
   - unknown
   - other_reason
 - id: sg-1-10-4-2
+  name: Fencing Foil Blades
+  children: []
+  attributes:
+  - age_group
+  - blade_size_category
+  - accessory_size
+  - care_instructions
+  - color
+  - fencing_weapon_type
+  - sports_governing_body_certification
+  - fencing_certification
+  - pattern
+  return_reasons:
+  - length
+  - balance
+  - weight
+  - incompatible
+  - color
+  - changed_my_mind
+  - item_not_as_described
+  - received_the_wrong_item
+  - damaged_or_defective
+  - unknown
+  - other_reason
+- id: sg-1-10-4-3
   name: Fencing Practice Swords
   children: []
   attributes:
@@ -7838,16 +7864,16 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3
+- id: sg-1-10-4-4
   name: Fencing Sabres
   children:
-  - sg-1-10-4-3-1
-  - sg-1-10-4-3-2
-  - sg-1-10-4-3-3
-  - sg-1-10-4-3-4
-  - sg-1-10-4-3-5
-  - sg-1-10-4-3-6
-  - sg-1-10-4-3-7
+  - sg-1-10-4-4-1
+  - sg-1-10-4-4-2
+  - sg-1-10-4-4-3
+  - sg-1-10-4-4-4
+  - sg-1-10-4-4-5
+  - sg-1-10-4-4-6
+  - sg-1-10-4-4-7
   attributes:
   - care_instructions
   - color
@@ -7864,7 +7890,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3-1
+- id: sg-1-10-4-4-1
   name: Fencing Sabre Guards
   children: []
   attributes:
@@ -7887,7 +7913,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3-2
+- id: sg-1-10-4-4-2
   name: Fencing Sabre Blades
   children: []
   attributes:
@@ -7909,7 +7935,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3-3
+- id: sg-1-10-4-4-3
   name: Fencing Sabre Pommels
   children: []
   attributes:
@@ -7931,7 +7957,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3-4
+- id: sg-1-10-4-4-4
   name: Fencing Sabre Grips
   children: []
   attributes:
@@ -7953,7 +7979,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3-5
+- id: sg-1-10-4-4-5
   name: Fencing Sabre Sockets
   children: []
   attributes:
@@ -7973,7 +7999,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-3-6
+- id: sg-1-10-4-4-6
   name: Fencing Sabre Pads
   children: []
   attributes:
@@ -7994,7 +8020,7 @@
   - unknown
   - other_reason
 
-- id: sg-1-10-4-3-7
+- id: sg-1-10-4-4-7
   name: Fencing Complete Sabres
   children: []
   attributes:
@@ -8025,17 +8051,16 @@
   - unknown
   - other_reason
 
-- id: sg-1-10-4-4
+- id: sg-1-10-4-5
   name: Fencing Foils
   children: 
-  - sg-1-10-4-4-1
-  - sg-1-10-4-4-2
-  - sg-1-10-4-4-3
-  - sg-1-10-4-4-4
-  - sg-1-10-4-4-5
-  - sg-1-10-4-4-6
-  - sg-1-10-4-4-7
-  - sg-1-10-4-4-8
+  - sg-1-10-4-5-1
+  - sg-1-10-4-5-2
+  - sg-1-10-4-5-3
+  - sg-1-10-4-5-4
+  - sg-1-10-4-5-5
+  - sg-1-10-4-5-6
+  - sg-1-10-4-5-7
   attributes:
   - color
   - fencing_certification
@@ -8052,32 +8077,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-1
-  name: Fencing Foil Blades
-  children: []
-  attributes:
-  - age_group
-  - blade_size_category
-  - accessory_size
-  - care_instructions
-  - color
-  - fencing_weapon_type
-  - sports_governing_body_certification
-  - fencing_certification
-  - pattern
-  return_reasons:
-  - length
-  - balance
-  - weight
-  - incompatible
-  - color
-  - changed_my_mind
-  - item_not_as_described
-  - received_the_wrong_item
-  - damaged_or_defective
-  - unknown
-  - other_reason
-- id: sg-1-10-4-4-2
+- id: sg-1-10-4-5-1
   name: Fencing Foil Guards
   children: []
   attributes:
@@ -8100,7 +8100,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-3
+- id: sg-1-10-4-5-2
   name: Fencing Foil Pommels
   children: []
   attributes:
@@ -8120,7 +8120,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-4
+- id: sg-1-10-4-5-3
   name: Fencing Foil Grips
   children: []
   attributes:
@@ -8143,7 +8143,7 @@
   - damaged_or_defective
   - unknown
   - other_reason    
-- id: sg-1-10-4-4-5
+- id: sg-1-10-4-5-4
   name: Fencing Foil Socket
   chidren: []
   attributes:
@@ -8163,7 +8163,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-6
+- id: sg-1-10-4-5-5
   name: Fencing Foil Pads
   children: []
   attributes:
@@ -8182,14 +8182,14 @@
   - damaged_or_defective
   - unknown
   - other_reason  
-- id: sg-1-10-4-4-7
+- id: sg-1-10-4-5-6
   name: Fencing Foil Points
   children:
-  - sg-1-10-4-4-7-1
-  - sg-1-10-4-4-7-2
-  - sg-1-10-4-4-7-3
-  - sg-1-10-4-4-7-4
-  - sg-1-10-4-4-7-5
+  - sg-1-10-4-5-6-1
+  - sg-1-10-4-5-6-2
+  - sg-1-10-4-5-6-3
+  - sg-1-10-4-5-6-4
+  - sg-1-10-4-5-6-5
   attributes:
   - epee_point_type
   - care_instructions
@@ -8207,7 +8207,7 @@
   - damaged_or_defective
   - unknown
   - other_reason  
-- id: sg-1-10-4-4-7-1
+- id: sg-1-10-4-5-6-1
   name: Fencing Foil Points Tips
   children: []
   attributes:
@@ -8227,7 +8227,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-7-2
+- id: sg-1-10-4-5-6-2
   name: Fencing Foil Points Springs
   children: []
   attributes: 
@@ -8246,7 +8246,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-7-3
+- id: sg-1-10-4-5-6-3
   name: Fencing Foil Points Screws
   attributes:
   - epee_point_type
@@ -8265,7 +8265,7 @@
   - unknown
   - other_reason
   children: []
-- id: sg-1-10-4-4-7-4
+- id: sg-1-10-4-5-6-4
   name: Fencing Foil Points Bases
   attributes:
   - epee_point_type
@@ -8284,8 +8284,8 @@
   - unknown
   - other_reason
   children: []
-- id: sg-1-10-4-4-7-5
-  name: Fencing Foil Epee Wires
+- id: sg-1-10-4-5-6-5
+  name: Fencing Foil Wires
   children: []
   attributes:
   - epee_point_type
@@ -8304,7 +8304,7 @@
   - damaged_or_defective
   - unknown
   - other_reason
-- id: sg-1-10-4-4-8
+- id: sg-1-10-4-5-7
   name: Fencing Complete Foils
   children: []
   attributes:
